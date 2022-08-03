@@ -1,9 +1,5 @@
 <?php
 
-$api = new Dublix;
-$data = $api->init('test.mp3');
-print_r($data);
-
 class Dublix
 {
     const URL = "https://www.aha-music.com/identify-songs-music-recognition-online/";
