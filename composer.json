@@ -1,0 +1,13 @@
+{
+  "name": "dublix/shazam",
+  "description": "Music recognition api",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Dublix\\": "src/"
+    }
+  },
+  "require": {}
+}
